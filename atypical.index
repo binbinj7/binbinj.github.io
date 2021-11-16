@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title> </title>
+        <style>
+
+         .b{
+        
+             font-family:'Arial';
+             font-size: large;
+         }
+         .info{
+             font-family:'Cambria';
+             text-align:justify; 
+           
+
+         }
+          .pic {
+             width:400px;
+             height:300px;
+             float:right;
+         }
+         
+         h1{
+            color: rgb(0, 153, 204);
+            font-family:'Calibri';
+            text-align:center;
+              
+            }
+            h2{
+            color: rgb(43, 32, 199);
+            font-family:'Times New Roman';
+            text-align:left;
+              
+            }
+             #s {
+                 color:rgb(0, 153, 204);
+            }
+        </style>
+    </head>
+    <body bgcolor=#B0F7FF >
+         <h1>Atypical</h1>
+       
+          <div class="info">
+<h2 id="s">Autor</h2>
+<p><span class="b">La autora es Robia Rashid</span></p>
+<h2>Datos de la autora</h2>
+<p><span class="b">Robia Sara Rashid es una escritora, productora y showrunner de televisión estadounidense. Es ampliamente conocida como la creadora de la serie original de Netflix Atypical. Rashid también fue coeditor de la historia, coproductor y productor supervisor de la serie de comedia de situación de CBS How I Met Your Mother.</span><p>
+
+        </div>
+   <div class="a"> 
+ <img  class="pic" src="caracteristicas-hosting-web.webp">
+<p>Este es el pinguino que adopto que se llama Stumpy.
+
